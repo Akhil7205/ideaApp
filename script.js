@@ -1,6 +1,9 @@
 
-const server =require('express')
-const app=server()
-app.listen(3333,()=>{
-    console.log('started')
+const exserver =require('express')
+const app=exserver()
+const configserver=require('../configs/server')
+
+app.listen(configserver.PORT,()=>{
+    console.log(`Start the server with Port no ${configserver.PORT}`)
+    
 })
