@@ -1,0 +1,22 @@
+{
+  "name": "appidea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akhil7205/ideaApp.git"
+  },
+  "author": "Akhil Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akhil7205/ideaApp/issues"
+  },
+  "homepage": "https://github.com/Akhil7205/ideaApp#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
