@@ -9,7 +9,3 @@ app.listen(configserver.PORT,()=>{
 })
 
 
-console.log('asdssfsfa2')
-
-console.log('dsf')
-            
